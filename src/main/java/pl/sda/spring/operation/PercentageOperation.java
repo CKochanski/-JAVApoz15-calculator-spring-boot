@@ -4,7 +4,7 @@ import org.springframework.stereotype.Component;
 import pl.sda.spring.exception.DivisionByZeroException;
 import pl.sda.spring.exception.OutOfRangeException;
 
-@Component
+
 class PercentageOperation implements Operation {
 
     @Override

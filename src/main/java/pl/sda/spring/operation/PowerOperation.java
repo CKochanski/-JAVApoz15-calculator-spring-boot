@@ -2,7 +2,7 @@ package pl.sda.spring.operation;
 
 import org.springframework.stereotype.Component;
 
-@Component
+
 class PowerOperation implements Operation {
 
     @Override
